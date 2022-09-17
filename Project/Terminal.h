@@ -2,6 +2,10 @@
 
 #include "Commands.h"
 
+/**
+ * @brief The virtual Terminal class
+ *
+ */
 class Terminal
 {
 private:
