@@ -2,8 +2,13 @@
 
 #include "lib/json.h"
 
-class Commands{
-    public:
-        nlohmann::json commands;
-        void loadCommandsJSON(std::string filename);
+/**
+ * @brief The Commands class
+ *
+ */
+class Commands
+{
+public:
+    nlohmann::json commands;
+    void loadCommandsJSON(std::string filename);
 };
