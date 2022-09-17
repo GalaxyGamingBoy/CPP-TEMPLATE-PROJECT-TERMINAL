@@ -12,4 +12,3 @@ git commit -m "chore: Update Doxygen Docs"
 git push --force $GITREPO docs
 cd ../..
 rm -rf docs
-(END)
