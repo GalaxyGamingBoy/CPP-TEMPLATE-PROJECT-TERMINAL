@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "names": ["exit", "Exit", "e"],
+        "help": "Exits the virtual terminal."
+    },
+    {
+        "id": 1,
+        "names": ["version", "Version", "ver", "v"],
+        "help": "Shows the virtual terminal version."
+    },
+    {
+        "id": 2,
+        "names": ["help", "Help", "h"],
+        "help": "Help menu."
+    },
+    {
+        "id": 3,
+        "names": ["viewCommandAliases", "ViewCommandAliases", "vCA", "aliases"],
+        "help": "Prints all command aliases."
+    },
+    {
+        "id": 4,
+        "names": ["changeHostname", "changeName", "ChangeHostname", "ChangeName", "cHN", "cN"],
+        "help": "Changes the hostname of the terminal."
+    },
+    {
+        "id": 5,
+        "names": ["changePrefix", "ChangePrefix", "cP"],
+        "help": "Changes the prefix of the terminal."
+    }
+]
