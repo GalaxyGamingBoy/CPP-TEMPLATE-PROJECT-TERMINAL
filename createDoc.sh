@@ -6,6 +6,7 @@ git clone $GITREPO
 cd CPP-TEMPLATE-PROJECT-TERMINAL
 git checkout -b docs
 mkdir web
+doxygen
 mv docsRedirect.html index.html
 git add *
 git commit -m "chore: Update Doxygen Docs"
